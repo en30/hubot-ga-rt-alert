@@ -3,7 +3,7 @@
 #
 # Dependencies:
 #   "cron": "^1.0.5",
-#   "hubot-googleapi": "^0.2.1",
+#   "hubot-googleapi": "^0.2.2",
 #   "lodash": "^2.4.1"
 #
 # Configuration:
