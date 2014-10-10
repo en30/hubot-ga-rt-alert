@@ -1,5 +1,5 @@
 # Description:
-#   A hubot script to notify when the number of real time users exceeds some value by using Google Analytics API.
+#   A hubot script to notify when the number of real time users exceeds or goes down threshold you set by using Google Analytics API.
 #
 # Dependencies:
 #   "cron": "^1.0.5",

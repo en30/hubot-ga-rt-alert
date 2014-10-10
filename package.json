@@ -1,7 +1,7 @@
 {
   "name": "hubot-ga-rt-alert",
   "version": "0.0.0",
-  "description": "A hubot script to notify when the number of real time users exceeds some value by using Google Analytics API.",
+  "description": "A hubot script to notify when the number of real time users exceeds or goes down threshold you set by using Google Analytics API.",
   "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
